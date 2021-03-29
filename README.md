@@ -14,4 +14,3 @@
 - [x] Check Up/ Down time
 
 
-#8 video 18:53
